@@ -78,6 +78,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Blumenau](https://www.facebook.com/groups/free.code.camp.blumenau/)
   - [Boa Vista](https://www.facebook.com/groups/free.code.camp.boa.vista/)
   - [Brasilia](https://www.facebook.com/groups/free.code.camp.brasilia/)
+  - [Brotas](https://www.facebook.com/groups/free.code.camp.brotas.sp)
   - [Campinas](https://www.facebook.com/groups/free.code.camp.campinas/)
   - [Campo Grande](https://www.facebook.com/groups/768732203272622/)
   - [Caxias do Sul](https://www.facebook.com/groups/free.code.camp.caxias.do.sul/)
