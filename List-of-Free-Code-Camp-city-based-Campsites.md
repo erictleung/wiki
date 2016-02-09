@@ -241,6 +241,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [London](https://www.facebook.com/groups/free.code.camp.london/)
   - [Manchester](https://www.facebook.com/groups/free.code.camp.manchester/)
   - [Milton Keynes](https://www.facebook.com/groups/free.code.camp.milton.keynes/)
+  - [Newcastle](https://www.facebook.com/groups/free.code.camp.newcastle/)
   - [Norfolk](https://www.facebook.com/groups/free.code.camp.norfolk/)  
   - [Reading](https://www.facebook.com/groups/free.code.camp.reading/)
   - [Salisbury](https://www.facebook.com/groups/free.code.camp.salisbury/)
