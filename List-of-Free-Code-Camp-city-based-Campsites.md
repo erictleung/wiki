@@ -680,6 +680,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Durban](https://www.facebook.com/groups/free.code.camp.durban.kwazulu.natal/)
   - [Johannesburg](https://www.facebook.com/groups/free.code.camp.johannesburg/)
   - [Pretoria](https://www.facebook.com/groups/150891448624679/)
+  - [Randfontein](https://www.facebook.com/groups/free.code.camp.your.randfontein/)
 - South Korea
   - [Busan](https://www.facebook.com/groups/free.code.camp.busan/)
   - [Daegu](https://www.facebook.com/groups/free.code.camp.your.daegu/)
