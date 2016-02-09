@@ -106,6 +106,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Salvador](https://www.facebook.com/groups/free.code.camp.salvador/)
   - [Sao Carlos](https://www.facebook.com/groups/free.code.camp.sao.carlos)
   - [Sao Joao da Boa Vista](https://www.facebook.com/groups/free.code.camp.sao.joao.da.boa.vista/)
+  - [Sao Jose dos Campos](https://www.facebook.com/groups/free.code.camp.sjc/)
   - [Sao Paulo](https://www.facebook.com/groups/free.code.camp.sao.paulo/)
   - [Sorocaba](https://www.facebook.com/groups/free.code.camp.sorocaba.sp/)
   - [Teresina](https://www.facebook.com/groups/free.code.camp.teresina.piaui/)
@@ -617,6 +618,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Timisoara](https://www.facebook.com/groups/free.code.camp.timisoara/)
 - Russia
   - [Almetyevsk](https://www.facebook.com/groups/free.code.camp.almetyevsk/)
+  - [Barnaul](https://www.facebook.com/groups/free.code.camp.barnaul/)
   - [Belgorod](https://www.facebook.com/groups/free.code.camp.belgorod/)
   - [Blagoveshchensk](https://www.facebook.com/groups/free.code.camp.blagoveshchensk.amur.region/)
   - [Cheljabinsk](https://www.facebook.com/groups/free.code.camp.cheljabinsk/)
