@@ -104,6 +104,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Riberão Preto](https://www.facebook.com/groups/fcc.ribeiraopreto/)
   - [Rio de Janeiro](https://www.facebook.com/groups/free.code.camp.rio.de.janeiro/)
   - [Salvador](https://www.facebook.com/groups/free.code.camp.salvador/)
+  - [Santos](https://www.facebook.com/groups/free.code.camp.santos)
   - [Sao Carlos](https://www.facebook.com/groups/free.code.camp.sao.carlos)
   - [Sao Joao da Boa Vista](https://www.facebook.com/groups/free.code.camp.sao.joao.da.boa.vista/)
   - [Sao Jose dos Campos](https://www.facebook.com/groups/free.code.camp.sjc/)
